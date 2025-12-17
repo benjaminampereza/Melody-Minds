@@ -1,0 +1,45 @@
+1.	User Profile & Library
+ • Get user profile info (name, email, country, subscription).
+ • Retrieve user’s top tracks and top artists.
+ • Access, save, or remove tracks and albums from the user’s library.
+	2.	Playback / Player Control
+ • Start, pause, skip, or seek playback.
+ • Queue tracks and control volume, shuffle, repeat.
+ • Transfer playback between devices and get current playback state.
+	3.	Playlists
+ • Create, update, and delete playlists.
+ • Add, remove, or reorder tracks in playlists.
+ • Follow/unfollow playlists and check follow status.
+ • Get playlist details and track listings.
+	4.	Music Catalog / Search
+ • Search tracks, albums, artists, playlists, and episodes.
+ • Retrieve detailed metadata for tracks, albums, and artists.
+ • Get multiple tracks or albums in a single request.
+	5.	Recommendations
+ • Generate personalized track recommendations using seed tracks, artists, or genres.
+ • Filter recommendations by tempo, energy, valence, popularity, and other audio features.
+ • Get available genre seeds for recommendations.
+	6.	Personalization & Insights
+ • Get recently played tracks.
+ • Access user’s top tracks and artists over different time ranges.
+ • Analyze listening habits and popular genres.
+	7.	Integration / Analytics
+ • Build dashboards combining multiple endpoints.
+ • Analyze user listening behavior programmatically.
+ • Integrate Spotify data into apps, recommendation engines, or reporting tools.
+	8.	Albums & Tracks Advanced Data
+ • Get album tracks and artist albums with filtering.
+ • Check if tracks or albums are saved in the library.
+ • Access track recommendations seeds (artists, genres, tracks).
+	9.	Audio Analysis & Features (Advanced)
+ • Retrieve audio features: tempo, key, mode, danceability, energy, valence, acousticness, etc.
+ • Get detailed audio analysis: beats, bars, sections, segments, pitches, timbre.
+	10.	Search & Filtering
+ • Perform advanced search queries with multiple filters.
+ • Search by type (track, album, artist, playlist, episode), market, limit, and offset.
+ • Combine multiple search filters for precise results.
+	11.	Player & Devices Insights
+ • Get a list of available devices for playback.
+ • Transfer playback to another device.
+ • Control volume, shuffle, repeat remotely.
+ • Retrieve current device playback state and context.

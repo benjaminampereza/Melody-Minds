@@ -1,4 +1,4 @@
-name: Anonymized import to melodIQ
+name: anonymize import 
 
 on:
   workflow_dispatch:
